@@ -32,7 +32,7 @@ somnath
 
         System.out.println("Select operation:");
         System.out.println("1. Add");
-        System.out.println("2. Subtract");
+        System.out.println("2. Subt");
         System.out.println("3. Multiply");
         System.out.println("4. Divide");
 
